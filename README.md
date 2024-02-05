@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...
 -->
 
-<h1 align="center">Hi 👋, I'm Hamdi KHELIL</h1>
+<h1 align="center">Hi 👋, I'm Hamdi</h1>
 
 - 🔭 I’m currently working on AKS/EKS/Kubernetes/Openshift
 - 🌱 I’m currently learning to extend Kubernetes with custom made operators
