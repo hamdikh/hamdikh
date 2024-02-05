@@ -7,11 +7,6 @@
 - 🤔 I’m looking for help with ...
 -->
 
-
-<h1 align="center">Hi 👋, I'm Hamdi KHELIL</h1>
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on AKS/EKS/Kubernetes/Openshift
 - 🌱 I’m currently learning to extend Kubernetes with custom made operators
 - 💬 Ask me about Kubernetes
