@@ -9,8 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Hamdi</h1>
 
-- 🔭 I’m currently working on AKS/EKS/Kubernetes/Openshift
-- 🌱 I’m currently learning to extend Kubernetes with custom made operators
+- 🔭 I’m currently working on AKS/EKS/Kubernetes/Openshift and extending Kubernetes with custom home made operators
 - 💬 Ask me about Kubernetes
 - 📫 How to reach me: you can ping me on <a href="https://www.linkedin.com/in/hamdi-khelil" target="blank">Linkedin</a>
 
