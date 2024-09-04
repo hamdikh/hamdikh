@@ -12,6 +12,7 @@
 - 🔭 I’m currently working on AKS/EKS/Kubernetes/Openshift and extending Kubernetes with custom home made operators
 - 💬 Ask me about Kubernetes
 - 📫 How to reach me: you can ping me on <a href="https://www.linkedin.com/in/hamdi-khelil" target="blank">Linkedin</a>
+- ⚡You can checkout my blog posts on <a href="https://dev.to/hkhelil/" target="blank">Dev.to</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamdikh&show_icons=true&locale=en&layout=compact" alt="hamdikh" /></p>
 
